@@ -4,9 +4,18 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-django = "==4.2.5"
+django = "*"
+pillow = "*"
+django-countries = "*"
+psycopg = "*"
+psycopg2 = "*"
+django-dotenv = "*"
+requests = "*"
+django-seed = "*"
+pipenv = "*"
 
 [dev-packages]
+flake8= "*"
 
 [requires]
 python_version = "3.11"

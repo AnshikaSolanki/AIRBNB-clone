@@ -1,0 +1,21 @@
+{
+  "devDependencies": {
+    "autoprefixer": "^10.4.16",
+    "gulp": "^4.0.2",
+    "gulp-csso": "^4.0.1",
+    "gulp-postcss": "^9.1.0",
+    "gulp-sass": "^5.1.0",
+    "node-sass": "^9.0.0",
+    "tailwindcss": "^3.4.1"
+  },
+  "name": "airbnb-clone",
+  "description": "��#\u0000 \u0000A\u0000I\u0000R\u0000B\u0000N\u0000B\u0000-\u0000c\u0000l\u0000o\u0000n\u0000e\u0000\r\u0000 \u0000\r\u0000 \u0000C\u0000l\u0000o\u0000n\u0000i\u0000n\u0000g\u0000 \u0000A\u0000I\u0000R\u0000B\u0000N\u0000B\u0000 \u0000u\u0000s\u0000i\u0000n\u0000g\u0000 \u0000p\u0000y\u0000t\u0000h\u0000o\u0000n\u0000,\u0000 \u0000d\u0000j\u0000a\u0000n\u0000g\u0000o\u0000,\u0000 \u0000t\u0000a\u0000i\u0000l\u0000w\u0000i\u0000n\u0000d\u0000.\u0000.\u0000.\u0000\r\u0000 \u0000",
+  "version": "1.0.0",
+  "scripts": {
+    "css": "gulp"
+  },
+  "dependencies": {
+    "glob-parent": "^6.0.2",
+    "source-map-resolve": "^0.6.0"
+  }
+}
