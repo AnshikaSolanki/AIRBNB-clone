@@ -13,6 +13,7 @@ This app is created using Django, Tailwaind CSS, Python, etc which helps the use
 ## Functionality
 
 ====  Gulp is used for HTML and CSS minfication.
+
 ====  Tailwind CSS for styling purpose.
 
 
